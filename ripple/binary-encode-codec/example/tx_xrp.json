@@ -1,0 +1,13 @@
+{
+  "TransactionType" : "Payment",
+  "Account" : "rP9hRfwUxPsPFn5vgbP1BMbbKiFtHp6uHj",
+  "Destination" : "rLvdBcx7Kyeu4BsGX8cRiMzBNFssAG3PyV",
+  "Amount" : {
+     "currency" : "XRP",
+     "value" : "10",
+	 "issuer" : "rP9hRfwUxPsPFn5vgbP1BMbbKiFtHp6uHj"
+  },
+  "Fee": "12",
+  "Flags": 2147483648,
+  "Sequence": 14
+}
