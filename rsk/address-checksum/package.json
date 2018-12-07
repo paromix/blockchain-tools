@@ -1,0 +1,12 @@
+{
+  "name": "rsk-addrcs",
+  "version": "1.0.0",
+  "description": "RSK address format encoding",
+  "main": "src/index.js",
+  "devDependencies": {
+  },
+  "dependencies": {
+	  "keccak": "^1.4.0",
+	  "strip-hex-prefix": "^1.0.0"
+  }
+}

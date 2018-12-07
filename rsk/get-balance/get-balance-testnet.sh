@@ -1,0 +1,1 @@
+curl https://public-node.testnet.rsk.co -X POST -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"eth_getBalance","params":["0x59b1E729b5C65d2C25f6A16164cF0db0e9fA5754", "latest"],"id":1}'

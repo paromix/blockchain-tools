@@ -1,0 +1,14 @@
+{
+  "name": "get-federation-address",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "web3": "^0.15.3"
+  },
+  "author": "RSK",
+  "license": "ISC"
+}
