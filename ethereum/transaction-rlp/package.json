@@ -1,0 +1,10 @@
+{
+  "name": "eth-tx-rlp",
+  "version": "1.0.0",
+  "description": "for ethereum rlp encoded tx generation",
+  "main": "src/index.js",
+  "devDependencies": {
+    "ethereumjs-tx": "^1.3.7",
+    "rlp": "^2.1.0"
+  }
+}
